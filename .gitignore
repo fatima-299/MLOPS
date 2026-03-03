@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+.pytest_cache/
+
+# ignore local venv
+venv/
+__pycache__/
+.pytest_cache/
+
+venv/
+
+# ignore local virtualenv
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
